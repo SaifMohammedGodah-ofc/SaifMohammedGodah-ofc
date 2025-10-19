@@ -19,7 +19,22 @@
 ---
 
 ### AI Stack
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,openai,n8n,tensorflow,pytorch,github,git,vscode,linux,nvidia)](https://skillicons.dev)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SaifMohammedGodah-ofc/SaifMohammedGodah-ofc/main/icons/1.png" width="60" style="margin:6px;"/>
+  <img src="https://raw.githubusercontent.com/SaifMohammedGodah-ofc/SaifMohammedGodah-ofc/main/icons/2.png" width="60" style="margin:6px;"/>
+<img src="https://raw.githubusercontent.com/SaifMohammedGodah-ofc/SaifMohammedGodah-ofc/main/icons/3.png" width="60" style="margin:6px;"/>
+<img src="https://raw.githubusercontent.com/SaifMohammedGodah-ofc/SaifMohammedGodah-ofc/main/icons/4.png" width="60" style="margin:6px;"/>
+<img src="https://raw.githubusercontent.com/SaifMohammedGodah-ofc/SaifMohammedGodah-ofc/main/icons/5.png" width="60" style="margin:6px;"/>
+<img src="https://raw.githubusercontent.com/SaifMohammedGodah-ofc/SaifMohammedGodah-ofc/main/icons/6.png" width="60" style="margin:6px;"/>
+<img src="https://raw.githubusercontent.com/SaifMohammedGodah-ofc/SaifMohammedGodah-ofc/main/icons/7.png" width="60" style="margin:6px;"/>
+<img src="https://raw.githubusercontent.com/SaifMohammedGodah-ofc/SaifMohammedGodah-ofc/main/icons/8.png" width="60" style="margin:6px;"/>
+<img src="https://raw.githubusercontent.com/SaifMohammedGodah-ofc/SaifMohammedGodah-ofc/main/icons/9.png" width="60" style="margin:6px;"/>
+<img src="https://raw.githubusercontent.com/SaifMohammedGodah-ofc/SaifMohammedGodah-ofc/main/icons/10.png" width="60" style="margin:6px;"/>
+
+</p>
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/-LangChain-00FFFF?style=for-the-badge&logo=chainlink&logoColor=black"/>
@@ -50,23 +65,14 @@
 
 ---
 
-### 🧩 Active Automations
-- 🤖 **Workflow Bots** — custom `n8n` automations for HR, data & AI pipelines  
-- 🧠 **LLM Integrations** — connecting GPT / Gemini / Mistral APIs to business logic  
-- 🪄 **Smart Docs** — dynamic form → PDF → API automations  
-- ⚙️ **Realtime Dashboards** — React + Frappe + FastAPI orchestration  
+### 🧩 Active Projects
+- 🤖 **BotForges** — ffff  
+- ⚙️ **CASANDRA** — ffff
 
 ---
 
 ### 💬 Random Thought of the Day
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
----
-
-### 🌐 Connect
-📬 saif@yourdomain.com  
-💼 [LinkedIn](https://linkedin.com/in/YOURNAME)  
-☕ [Buy Me a Coffee](https://buymeacoffee.com/YOURUSERNAME)
 
 ---
 
