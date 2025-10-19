@@ -36,17 +36,16 @@
 </p>
 
 ---
-
-### GitHub Intelligence
+### 🔥 Neural Streak
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaifMohammedGodah-ofc&show_icons=true&theme=tokyonight&title_color=00ffff&icon_color=ff00ff&text_color=ffffff&bg_color=0d1117" height="165">
+  <img src="https://streak-stats.demolab.com?user=SaifMohammedGodah-ofc&theme=tokyonight&ring=00ffff&fire=ff00ff&currStreakNum=ffffff" alt="GitHub Streak"/>
 </p>
 
 ---
 
-### 🔥 Neural Streak
+### GitHub Intelligence
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SaifMohammedGodah-ofc&theme=tokyonight&ring=00ffff&fire=ff00ff&currStreakNum=ffffff" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SaifMohammedGodah-ofc&show_icons=true&theme=tokyonight&title_color=00ffff&icon_color=ff00ff&text_color=ffffff&bg_color=0d1117" height="165">
 </p>
 
 ---
