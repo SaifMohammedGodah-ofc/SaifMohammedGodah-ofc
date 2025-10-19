@@ -1,5 +1,5 @@
 <h1 align="center">🤖 Saif Mohammed Godah</h1>
-<h3 align="center">AI Enthusiast • Automation Developer • Future Systems Engineer</h3>
+<h3 align="center">AI & Automation Developer • Prompt Engineer • Systems Integrator</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SaifMohammedGodah-ofc&style=flat-square&color=00ffff" alt="Profile views"/>
@@ -9,17 +9,25 @@
 
 ---
 
-### 🧬 About Me
-🧠 Passionate about **AI, prompt engineering, and intelligent automation**.  
-⚙️ I design and build automated systems that connect data, logic, and people.  
-💡 Exploring agentic AI, workflow orchestration, and human-in-the-loop design.  
-📈 Always experimenting with **Frappe / React / n8n / FastAPI** stacks.  
-🎯 Goal: create technology that **amplifies human intelligence, not replaces it.**
+### 🧠 About Me
+🔹 Passionate about **AI systems, agentic workflows, and prompt-driven automation**.  
+🔹 Building bridges between **models**, **data**, and **human intent** using code.  
+🔹 Exploring **LangChain**, **Mistral**, **Gemini**, and **OpenAI APIs**.  
+🔹 Love integrating **n8n**, **FastAPI**, and **custom pipelines** for intelligent process automation.  
+🔹 Dream: make AI tools that empower creativity and simplify complex work.
 
 ---
 
-### ⚙️ Tech Arsenal
-[![My Skills](https://skillicons.dev/icons?i=python,typescript,react,fastapi,frappe,postgres,nodejs,vscode,github,n8n,git)](https://skillicons.dev)
+### ⚙️ AI Stack
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,openai,n8n,tensorflow,pytorch,github,git,vscode,linux,nvidia)](https://skillicons.dev)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-LangChain-00FFFF?style=for-the-badge&logo=chainlink&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Gemini-FF00FF?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Mistral%20AI-00FFFF?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Hugging%20Face-FFD700?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-OpenAI-00FFFF?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
 
 ---
 
@@ -43,7 +51,15 @@
 
 ---
 
-### 🧠 Random Thought of the Day
+### 🧩 Active Automations
+- 🤖 **Workflow Bots** — custom `n8n` automations for HR, data & AI pipelines  
+- 🧠 **LLM Integrations** — connecting GPT / Gemini / Mistral APIs to business logic  
+- 🪄 **Smart Docs** — dynamic form → PDF → API automations  
+- ⚙️ **Realtime Dashboards** — React + Frappe + FastAPI orchestration  
+
+---
+
+### 💬 Random Thought of the Day
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 ---
@@ -51,8 +67,8 @@
 ### 🌐 Connect
 📬 saif@yourdomain.com  
 💼 [LinkedIn](https://linkedin.com/in/YOURNAME)  
-☕ [Buy Me a Coffee](https://buymeacoffee.com/YOURUSERNAME)  
+☕ [Buy Me a Coffee](https://buymeacoffee.com/YOURUSERNAME)
 
 ---
 
-<h4 align="center">✨ “Automation is the bridge between human intent and machine precision.” ✨</h4>
+<h4 align="center">✨ “AI is not magic — it’s the art of teaching logic to dream.” ✨</h4>
