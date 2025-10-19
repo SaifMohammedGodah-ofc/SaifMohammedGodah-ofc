@@ -8,7 +8,9 @@
 ---
 
 ### 📊 My GitHub Stats
-[![Some GitHub stats](https://github-readme-stats.vercel.app/api?username=saifgodah&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Saif's GitHub stats](https://github-readme-stats.vercel.app/api?username=saifgodah&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+![Metrics](https://metrics.lecoq.io/saifgodah?template=classic&languages=1&isocalendar=1&lines=1)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saifgodah&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
