@@ -35,7 +35,7 @@
 </p>
 
 ---
-### 🔥 Neural Streak
+### 🔥Neural Streak🔥
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SaifMohammedGodah-ofc&theme=tokyonight&ring=00ffff&fire=ff00ff&currStreakNum=ffffff" alt="GitHub Streak"/>
 </p>
@@ -49,18 +49,14 @@
 
 ---
 
-### 🏆 Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=SaifMohammedGodah-ofc&theme=discord&no-frame=true&margin-w=8&title_color=00ffff)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 🧩 Active Projects
-- 🤖 **BotForges** — ffff  
-- ⚙️ **CASANDRA** — ffff
+### Active Projects
+- 🤖 **`BotForges`** — ffff
+- ⚙️ **`CASANDRA`** — ffff
 
 ---
 
 ### 💬 Random Thought of the Day
+
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 ---
