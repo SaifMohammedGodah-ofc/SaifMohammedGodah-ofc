@@ -21,16 +21,16 @@
 ### AI Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SaifMohammedGodah-ofc/SaifMohammedGodah-ofc/main/icons/1.png" width="60" style="margin:6px;"/>
-  <img src="https://raw.githubusercontent.com/SaifMohammedGodah-ofc/SaifMohammedGodah-ofc/main/icons/2.png" width="60" style="margin:6px;"/>
-<img src="https://raw.githubusercontent.com/SaifMohammedGodah-ofc/SaifMohammedGodah-ofc/main/icons/3.png" width="60" style="margin:6px;"/>
-<img src="https://raw.githubusercontent.com/SaifMohammedGodah-ofc/SaifMohammedGodah-ofc/main/icons/4.png" width="60" style="margin:6px;"/>
-<img src="https://raw.githubusercontent.com/SaifMohammedGodah-ofc/SaifMohammedGodah-ofc/main/icons/5.png" width="60" style="margin:6px;"/>
-<img src="https://raw.githubusercontent.com/SaifMohammedGodah-ofc/SaifMohammedGodah-ofc/main/icons/6.png" width="60" style="margin:6px;"/>
-<img src="https://raw.githubusercontent.com/SaifMohammedGodah-ofc/SaifMohammedGodah-ofc/main/icons/7.png" width="60" style="margin:6px;"/>
-<img src="https://raw.githubusercontent.com/SaifMohammedGodah-ofc/SaifMohammedGodah-ofc/main/icons/8.png" width="60" style="margin:6px;"/>
-<img src="https://raw.githubusercontent.com/SaifMohammedGodah-ofc/SaifMohammedGodah-ofc/main/icons/9.png" width="60" style="margin:6px;"/>
-<img src="https://raw.githubusercontent.com/SaifMohammedGodah-ofc/SaifMohammedGodah-ofc/main/icons/10.png" width="60" style="margin:6px;"/>
+  <img src="https://raw.githubusercontent.com/SaifMohammedGodah-ofc/SaifMohammedGodah-ofc/main/icon/1.png" width="60" style="margin:6px;"/>
+  <img src="https://raw.githubusercontent.com/SaifMohammedGodah-ofc/SaifMohammedGodah-ofc/main/icon/2.png" width="60" style="margin:6px;"/>
+<img src="https://raw.githubusercontent.com/SaifMohammedGodah-ofc/SaifMohammedGodah-ofc/main/icon/3.png" width="60" style="margin:6px;"/>
+<img src="https://raw.githubusercontent.com/SaifMohammedGodah-ofc/SaifMohammedGodah-ofc/main/icon/4.png" width="60" style="margin:6px;"/>
+<img src="https://raw.githubusercontent.com/SaifMohammedGodah-ofc/SaifMohammedGodah-ofc/main/icon/5.png" width="60" style="margin:6px;"/>
+<img src="https://raw.githubusercontent.com/SaifMohammedGodah-ofc/SaifMohammedGodah-ofc/main/icon/6.png" width="60" style="margin:6px;"/>
+<img src="https://raw.githubusercontent.com/SaifMohammedGodah-ofc/SaifMohammedGodah-ofc/main/icon/7.png" width="60" style="margin:6px;"/>
+<img src="https://raw.githubusercontent.com/SaifMohammedGodah-ofc/SaifMohammedGodah-ofc/main/icon/8.png" width="60" style="margin:6px;"/>
+<img src="https://raw.githubusercontent.com/SaifMohammedGodah-ofc/SaifMohammedGodah-ofc/main/icon/9.png" width="60" style="margin:6px;"/>
+<img src="https://raw.githubusercontent.com/SaifMohammedGodah-ofc/SaifMohammedGodah-ofc/main/icon/10.png" width="60" style="margin:6px;"/>
 
 </p>
 
