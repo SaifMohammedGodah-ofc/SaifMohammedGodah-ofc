@@ -31,17 +31,8 @@
 <img src="https://raw.githubusercontent.com/SaifMohammedGodah-ofc/SaifMohammedGodah-ofc/main/icon/8.png" width="60" style="margin:6px;"/>
 <img src="https://raw.githubusercontent.com/SaifMohammedGodah-ofc/SaifMohammedGodah-ofc/main/icon/9.png" width="60" style="margin:6px;"/>
 <img src="https://raw.githubusercontent.com/SaifMohammedGodah-ofc/SaifMohammedGodah-ofc/main/icon/10.png" width="60" style="margin:6px;"/>
+<img src="https://raw.githubusercontent.com/SaifMohammedGodah-ofc/SaifMohammedGodah-ofc/main/icon/11.png" width="60" style="margin:6px;"/>
 
-</p>
-
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-LangChain-00FFFF?style=for-the-badge&logo=chainlink&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Gemini-FF00FF?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Mistral%20AI-00FFFF?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Hugging%20Face-FFD700?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-OpenAI-00FFFF?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
 ---
