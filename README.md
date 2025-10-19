@@ -2,8 +2,7 @@
 <h3 align="center">AI & Automation Developer • Prompt Engineer • Systems Integrator</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaifMohammedGodah-ofc&style=flat-square&color=00ffff" alt="Profile views"/>
-  <img src="https://img.shields.io/badge/focus-AI%20%26%20Automation-ff00ff?style=flat-square"/>
+  <img src="https://img.shields.io/badge/focus-Automation%20%26%20Agentic%20AI-ff00ff?style=flat-square"/>
   <img src="https://img.shields.io/badge/location-Planet%20Earth%20(UTC%2B3)-00ffff?style=flat-square"/>
 </p>
 
