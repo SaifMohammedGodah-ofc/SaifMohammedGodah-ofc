@@ -50,8 +50,9 @@
 ---
 
 ### Active Projects
-- 🤖 **`BotForges`** — ffff
-- ⚙️ **`CASANDRA`** — ffff
+- **`🤖 BotForges`** — Discover powerful automation bots that streamline your workflow, boost productivity, and handle repetitive tasks so you can focus on what matters most.
+  
+- **`⚙️ CASANDRA`** — Conversational Artificial System for Adaptive Neural Dialogue & Relationship Assistance
 
 ---
 
