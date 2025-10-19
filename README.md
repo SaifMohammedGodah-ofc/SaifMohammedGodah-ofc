@@ -1,4 +1,4 @@
-<h1 align="center">🤖 Saif Mohammed Godah</h1>
+<h1 align="center">🤖 Saif Mohammed Godah aka Syn-Zero</h1>
 <h3 align="center">AI & Automation Developer • Prompt Engineer • Systems Integrator</h3>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 🔹 Passionate about **AI systems, agentic workflows, and prompt-driven automation**.  
 🔹 Building bridges between **models**, **data**, and **human intent** using code.  
 🔹 Exploring **LangChain**, **Mistral**, **Gemini**, and **OpenAI APIs**.  
@@ -18,7 +18,7 @@
 
 ---
 
-### ⚙️ AI Stack
+### AI Stack
 [![My Skills](https://skillicons.dev/icons?i=python,fastapi,openai,n8n,tensorflow,pytorch,github,git,vscode,linux,nvidia)](https://skillicons.dev)
 
 <p align="center">
@@ -31,10 +31,9 @@
 
 ---
 
-### 📊 GitHub Intelligence
+### GitHub Intelligence
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SaifMohammedGodah-ofc&show_icons=true&theme=tokyonight&title_color=00ffff&icon_color=ff00ff&text_color=ffffff&bg_color=0d1117" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaifMohammedGodah-ofc&layout=compact&theme=tokyonight&title_color=00ffff&text_color=ffffff&bg_color=0d1117" height="165">
 </p>
 
 ---
@@ -71,4 +70,4 @@
 
 ---
 
-<h4 align="center">✨ “AI is not magic — it’s the art of teaching logic to dream.” ✨</h4>
+<h4 align="center">✨ “AI is not magic — it’s the art of teaching logic to dream.” ✨ </h4> 
