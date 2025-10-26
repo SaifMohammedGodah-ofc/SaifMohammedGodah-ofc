@@ -50,7 +50,7 @@
 ---
 
 ### Active Projects
-- **`🤖 BotForges`** — Discover powerful automation bots that streamline your workflow, boost productivity, and handle repetitive tasks so you can focus on what matters most.
+- **`🤖 BotForges`** — Discover powerful automation bots that streamline your workflow, boost productivity, and handle repetitive tasks so you can focus on what matters most. with our latest feature `TraitEngine` is a game changer for nft creators.
   
 - **`⚙️ CASANDRA`** — Conversational Artificial System for Adaptive Neural Dialogue & Relationship Assistance
 
