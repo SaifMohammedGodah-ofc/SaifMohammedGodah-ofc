@@ -42,13 +42,6 @@
 
 ---
 
-### GitHub Intelligence
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaifMohammedGodah-ofc&show_icons=true&theme=tokyonight&title_color=00ffff&icon_color=ff00ff&text_color=ffffff&bg_color=0d1117" height="165">
-</p>
-
----
-
 ### Active Projects
 - **`🤖 BotForges`** — Discover powerful automation bots that streamline your workflow, boost productivity, and handle repetitive tasks so you can focus on what matters most. with our latest feature `TraitEngine` is a game changer for nft creators.
   
